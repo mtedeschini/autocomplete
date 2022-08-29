@@ -1,0 +1,17 @@
+.list{
+    overflow: auto;
+    background-color: rgb(240, 240, 240);
+    max-height: 150px;
+    position: absolute;
+}
+
+.item{
+    border-bottom: 1px solid grey;
+    margin: 0px;
+    padding: 10px;
+}
+
+.item a{
+    color: black;
+    text-decoration: none;
+}
